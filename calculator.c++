@@ -36,7 +36,7 @@ int main() {
                 std::cout<<"Hasil: " <<result<< std::endl;
                 break;
             default:
-                std::cout<<"that wasn't a valid response"<<std::endl;
+                std::cout<<"that wasn't a valid operator"<<std::endl;
         }
 
     return 0;
